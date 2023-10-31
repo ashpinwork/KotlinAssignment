@@ -1,0 +1,7 @@
+
+------------Bill Details-------------
+Booking ID: p1596 
+Fly Paris  at 21:00 on 0909-09-09
+Total amount: 2500.0x3.0 =7500.0
+Billed amount after tax: 17250.0
+Miles obtained on this booking 17250.0 * 0.8 = 13800.0

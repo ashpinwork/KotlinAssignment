@@ -1,0 +1,3 @@
+interface Billing {
+    fun payBill()
+}

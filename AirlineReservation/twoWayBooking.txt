@@ -1,0 +1,12 @@
+
+------------Bill Details-------------
+Booking ID: p1538 
+Fly Paris at 21:00 on 0909-09-09
+Total Amount: 2500.0x3.0 = 7500.0
+-Return Booking- 
+Fly India at 21:00 on 0909-09-09
+Total Amount: 7200.0x3.0 = 21600.0
+Billed amount after tax: 33465.0
+-------Credit Card Payment--------
+Payment received from Account ID: 213
+Miles obtained on this booking 29100.0 * 0.4 = 11640.0
